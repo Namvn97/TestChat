@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Basesfs">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/Telegram Desktop/config_lib_sfs/config_lib_sfs/Basesfs.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Telegram Desktop/config_lib_sfs/config_lib_sfs/fwLibExtend.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
